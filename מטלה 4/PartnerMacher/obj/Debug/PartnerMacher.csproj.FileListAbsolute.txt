@@ -1,0 +1,13 @@
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.exe
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.pdb
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.csprojResolveAssemblyReference.cache
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.Properties.Resources.resources
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.csproj.GenerateResource.Cache
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.exe
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.pdb
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.MainForm.resources
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.AboutPanel.resources
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.LogInPanel.resources
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.SearchPanel.resources
+c:\users\aovadya\documents\visual studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.SignUpPanel.resources

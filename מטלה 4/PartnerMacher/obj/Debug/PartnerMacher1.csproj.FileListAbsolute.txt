@@ -1,0 +1,99 @@
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.exe
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.pdb
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher1.csprojResolveAssemblyReference.cache
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.AboutPanel.resources
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.LogInPanel.resources
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.MainForm.resources
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.Properties.Resources.resources
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.SearchPanel.resources
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.SignUpPanel.resources
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher1.csproj.GenerateResource.Cache
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.exe
+C:\Users\aovadya\Documents\Visual Studio 2015\Projects\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.pdb
+D:\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.exe
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.pdb
+D:\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.exe
+D:\PartnerMacher\PartnerMacher\bin\Debug\PartnerMacher.pdb
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher1.csprojResolveAssemblyReference.cache
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.AboutPanel.resources
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.LogInPanel.resources
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.MainForm.resources
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.Properties.Resources.resources
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.SearchPanel.resources
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher.View.SignUpPanel.resources
+D:\PartnerMacher\PartnerMacher\obj\Debug\PartnerMacher1.csproj.GenerateResource.Cache
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.exe
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.pdb
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\bin\Debug\PartnerMacher.exe
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\bin\Debug\PartnerMacher.pdb
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher1.csprojResolveAssemblyReference.cache
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.View.AboutPanel.resources
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.View.LogInPanel.resources
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.MainForm.resources
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.Properties.Resources.resources
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.View.SearchPanel.resources
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher.View.SignUpPanel.resources
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\obj\Debug\PartnerMacher1.csproj.GenerateResource.Cache
+C:\Users\liron\Desktop\New folder (3)\PartnerMacher\bin\Debug\DB\PartnersMatcherDB.accdb
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.exe
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.pdb
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\bin\Debug\DB\PartnersMatcherDB.accdb
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.exe
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.pdb
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher1.csprojResolveAssemblyReference.cache
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.AboutPanel.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.LogInPanel.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.MainForm.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.Properties.Resources.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SearchPanel.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SignUpPanel.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher1.csproj.GenerateResource.Cache
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.exe
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.pdb
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\bin\Debug\DB\PartnersMatcherDB.accdb
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.exe
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.pdb
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher1.csprojResolveAssemblyReference.cache
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.AboutPanel.resources
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.LogInPanel.resources
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.MainForm.resources
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.Properties.Resources.resources
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SearchPanel.resources
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SignUpPanel.resources
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher1.csproj.GenerateResource.Cache
+C:\Users\liron\Desktop\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.ShowUserGroup.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.ShowUserGroup.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.CreateGroupPanel.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.ApartmentAdsDetail.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.DateAdsDetails.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.PublishAdsPanel.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SportAdsDetails.resources
+C:\Users\aovadya\Desktop\לימודים\ניתוץ\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.TravelAdsDetails.resources
+C:\Users\liron\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+C:\Users\liron\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.exe
+C:\Users\liron\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.pdb
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.exe.config
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.exe
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.pdb
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\bin\Debug\DB\PartnersMatcherDB.accdb
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.exe
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\bin\Debug\PartnerMacher.pdb
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher1.csprojResolveAssemblyReference.cache
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.AboutPanel.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.ApartmentAdsDetail.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.CreateGroupPanel.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.DateAdsDetails.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.LogInPanel.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.MainForm.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.Properties.Resources.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SearchPanel.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.ShowUserGroup.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SignUpPanel.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.SportAdsDetails.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher.View.TravelAdsDetails.resources
+C:\Users\aovadya\Desktop\מטלה 4 ממש סופי\מטלה 4\PartnerMacher\obj\Debug\PartnerMacher1.csproj.GenerateResource.Cache
